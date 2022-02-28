@@ -13,3 +13,42 @@
 .place:last-child {
   padding-bottom: 0;
 }
+
+@media screen and (max-width: 1024px) {
+  .place {
+    column-gap: 32px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .place {
+    column-gap: 28px;
+    padding-bottom: 73px;
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .place {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    grid-template-areas:
+      "title"
+      "links"
+      "image"
+      "text";
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto;
+    padding-bottom: 64px;
+    grid-template-areas:
+      "title"
+      "links"
+      "image"
+      "text";
+  }
+}
+

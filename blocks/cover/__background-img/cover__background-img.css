@@ -1,0 +1,5 @@
+.cover__background-img {
+  position: relative;
+  width: 100%;
+  object-fit: contain;
+}

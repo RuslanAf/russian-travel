@@ -7,3 +7,9 @@
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
   gap: 16px;
 }
+
+@media screen and (max-width: 1024px) {
+  .gallery__items {
+    gap: 14px;
+  }
+}
