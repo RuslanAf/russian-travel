@@ -1,23 +1,17 @@
-# Проект: Путешествие по России
+<img src="https://i.ibb.co/bvMySSb/image.png" alt="image">
 
-### Обзор
-* Интро
-* Figma
-* Картинки
+# Обзор
 
-**Интро**
+"Путешествия по России" - адаптивный одностраничный сайт, посвященный внутреннему туризму. Работа выполнена в рамках обучения в Яндекс.Практикум
 
-Здесь будет проект о путешествии по России.
-В Фигме мы разместили макет, в котором видно, как проект должен выглядеть на самых распространённых разрешениях экранов.
-Этот проект сложнее предыдущих, постарайтесь уделить ему больше времени.
+## Используемые технологии
+<img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="140px" height="auto"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="100px" height="auto">
 
-**Figma**
+## Особенности работы:
+* Flexbox-верстка
+* Grid-layout
+* Методология БЭМ
+* CSS медиа-запросы (media queries)
+* Работа с макетом в Figma
 
-* [Ссылка на макет в Figma](https://www.figma.com/file/5S2WSbEFL6awjVWJ0NWL8Q/Sprint-3_-Russia-_-desktop-mobile?node-id=28503%3A0)
-
-**Картинки**
-
-Доставать картинки предстоит из Фигмы. Это расхожая практика, поэтому полезно потренироваться.
-Не забудьте [оптимизировать картинки](https://tinypng.com/), чтобы ваш сайт загружался быстрее.
-
-Удачи!
+### <a href="https://ruslanaf.github.io/russian-travel/" target="_blank">Страница работы на GitHub Pages</a>
