@@ -1,6 +1,13 @@
 .lead__wrap {
-  padding-left: 48px;
-  padding-right: 48px;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .lead__wrap {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
 }
 
 @media screen and (max-width: 768px) {
@@ -9,3 +16,4 @@
     padding-right: 0;
   }
 }
+
