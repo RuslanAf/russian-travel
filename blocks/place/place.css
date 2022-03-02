@@ -41,14 +41,7 @@
 
 @media screen and (max-width: 320px) {
   .place {
-    grid-template-columns: 1fr;
-    grid-template-rows: auto;
     padding-bottom: 64px;
-    grid-template-areas:
-      "title"
-      "links"
-      "image"
-      "text";
   }
 }
 
